@@ -27,4 +27,5 @@ pause
 # $host.UI.RawUI.ForegroundColor = "White"
 cd $before_path
 cls
+
 cls
