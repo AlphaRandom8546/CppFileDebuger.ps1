@@ -1,8 +1,4 @@
-﻿# $host.UI.RawUI.ForegroundColor = "DarkGreen"
-# $host.UI.RawUI.BackgroundColor = "Black"
-
-# Invoke-Command $session -ScriptBlock { cd ..\Downloads ;Powershell ..\Downloads\SetupWeb.ps1 2> $null }
-$before_path = ($pwd).Path
+﻿$before_path = ($pwd).Path
 cd Desktop
 cls
 $file = "__"
